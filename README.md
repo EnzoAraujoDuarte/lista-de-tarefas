@@ -8,6 +8,6 @@ Este é um projeto simples de lista de tarefas desenvolvido utilizando React.js.
 - Marcar uma tarefa como concluída (para isso clique duas vezes em cima da tarefa adicionada)
 - Excluir uma tarefa da lista
 
-![Captura de Tela](Captura de tela 2024-04-08 201047.png)
+![Captura de Tela](print.png)
 
 
