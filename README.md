@@ -5,7 +5,7 @@ Este é um projeto simples de lista de tarefas desenvolvido utilizando React.js.
 ## Funcionalidades
 
 - Adicionar uma nova tarefa
-- Marcar uma tarefa como concluída (para isso clique duas vezes em cima da tarefa adicionada)
+- Marcar uma tarefa como concluída (para isso clique uma vez em cima da tarefa adicionada)
 - Excluir uma tarefa da lista
 
 ![Captura de Tela](print.png)
